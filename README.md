@@ -28,6 +28,9 @@ A passionate Software Engineer || Front-End Developer
 ![](https://nirzak-streak-stats.vercel.app/?user=WaydandeSneha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaydandeSneha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WaydandeSneha&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WaydandeSneha&icon=9&color=2)](https://visitcount.itsvg.in)
