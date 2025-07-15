@@ -23,13 +23,15 @@ A passionate Software Engineer || Front-End Developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WaydandeSneha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WaydandeSneha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaydandeSneha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=WaydandeSneha&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WaydandeSneha&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaydandeSneha&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WaydandeSneha&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=WaydandeSneha&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 
 ---
