@@ -33,7 +33,7 @@ A passionate Software Engineer || Front-End Developer
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WaydandeSneha&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=WaydandeSneha&limit=5&theme=Vue&combine_all_yearly_contributions=true)
 
 
 ---
